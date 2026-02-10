@@ -1,7 +1,6 @@
 {
   "name": "issues-helper",
   "version": "3.7.6",
-  "private": true,
   "description": "A GitHub Action easily helps you automatically manage issues.",
   "repository": {
     "type": "git",
