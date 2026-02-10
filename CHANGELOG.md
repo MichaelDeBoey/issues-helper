@@ -6,6 +6,12 @@
 ⚡️ Code style
 🛠 refactor
 -->
+## v3.7.6
+
+`2026.02.10`
+
+- 🚀 feat: build export. [#226](https://github.com/actions-cool/issues-helper/pull/226)
+
 
 ## v3.7.5
 
