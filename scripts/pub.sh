@@ -4,6 +4,9 @@ npm run format-check
 echo "[TEST] test package"
 npm run package
 
+echo "[TEST] test build export"
+npm run build:export
+
 echo "[TEST] test commit"
 npm run check-commit
 
