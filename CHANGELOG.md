@@ -6,6 +6,12 @@
 ⚡️ Code style
 🛠 refactor
 -->
+## v3.8.0
+
+`2026.03.20`
+
+- 🛠 chore: up node24. [#229](https://github.com/actions-cool/issues-helper/pull/229)
+
 ## v3.7.6
 
 `2026.02.10`
